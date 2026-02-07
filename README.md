@@ -1,7 +1,7 @@
 # Figma Collaboration Suite
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Figma Collaboration Suite Logo" width="300"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" alt="Figma Collaboration Suite Logo" width="400"/>
 </p>
 
 <p align="center">
